@@ -39,7 +39,7 @@ This project uses OpenAI's GPT-4o for:
 - Processing user feedback into constraints (llmConstraints)
 - Evaluating the quality of workout plans (llmAsAJudge)
 
-My API key is no longer attached due to this now being made public on GitHub, if you wish to test the LLM intergration then fill in the sace on line 14 of main with a key.
+My API key is no longer attached and has been disabled from my OpenAI account due to this now being made public on GitHub, if you wish to test the LLM intergration then fill in the sace on line 14 of main with a key.
 
 Video Demonstration
 A full walkthrough of the GUI, backend, and plan generation is available here:
